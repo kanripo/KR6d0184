@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:29.737671
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:50
 #+TITLE: 法智遺編觀心二百問
 #+PROPERTY: CBETA_ID T46n1935
 #+PROPERTY: ID KR6d0184
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1935
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0184_T_000-0824a>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0184_T_001-0824a> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1935¶
-
- 法智遺編觀心二百問¶
+No. 1935¶
+法智遺編觀心二百問¶
 ¶
 法孫繼忠集¶
 
@@ -515,7 +514,7 @@ No.1935¶
 一念三千。又以託外依正色心便為內觀之¶
 境。還是不分事理二造內外二境耶。¶
 
-問既遭問疑書難。便改轉云所造諸法者。理¶
+問既遭間疑書難。便改轉云所造諸法者。理¶
 具名造實非事造。又云所言三千者。即是所¶
 具三千名造。實非外境事造。此是欺心轉計¶
 否。¶
