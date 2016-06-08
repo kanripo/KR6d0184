@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:29.737671
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:50
 #+TITLE: 法智遺編觀心二百問
 #+PROPERTY: CBETA_ID T46n1935
 #+PROPERTY: ID KR6d0184
